@@ -1,2 +1,2 @@
-# Artificial-Intelligence
-Repositorio para la materia Inteligencia Artificla 1
+# Inteligencia Artificial 1
+Repositorio para la materia Inteligencia Artificial 1
